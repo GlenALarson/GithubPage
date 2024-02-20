@@ -1,9 +1,9 @@
-# This is a heading
-## This is a smaller heading
+# This is a heading.
+## This is a smaller heading.
 
-_This text is italicized_
+_This text is italicized._
 
-> This is a quote
+> This is a quote.
 
-
+**Below is a picture of a fluffy cat.**
 ![Picture of a fluffy cat](https://images.rawpixel.com/image_1100/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZsNDgyNDQxMTEwOS1pbWFnZS1rcHFrNXh0eC5qcGc.jpg)
