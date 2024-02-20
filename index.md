@@ -1,5 +1,5 @@
-# This is a heading.
-## This is a smaller heading.
+# This is an example of a Github Pages page for my learning diary.
+## The page was made using markdown language syntax.
 
 _This text is italicized._
 
